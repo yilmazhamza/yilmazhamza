@@ -1,6 +1,6 @@
 ## Hello 👋 WELCOME MY GitHub :) 
 
-Well-versed in technology and writing code to create systems that are agile. I am currently activetly developing an application with spring boot and microservice arhitecture. I want to be able to talk about my name in the software world..I have gained experience developing microservice architecture with Spring Boot and Hibernate. Also worked with Vue.js in frontend.I receive trainings related to these areas such as Spring framework, Rdsm, Microservis, NoSql and try to develop myself professionally in this field.
+Well-versed in technology and writing code to create systems that are agile. I am currently activetly developing an application with spring boot and microservice arhitecture. I want to be able to talk about my name in the software world.I have gained experience developing microservice architecture with Spring Boot and Hibernate. Also worked with Vue.js in frontend.I receive trainings related to these areas such as Spring framework, Rdsm, Microservis, NoSql and try to develop myself professionally in this field.
 
 - 🔭 I’m currently working on Java Software Developer.
 - 👋 I'm currently working on ```Java``` languages
